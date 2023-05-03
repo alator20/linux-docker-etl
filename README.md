@@ -11,4 +11,7 @@
 5. make container running first, and then run python script. This means when you use docker run to start up the container, the python script will not run. The python script only runs when you give container an order with command docker exec.
 
 
+Visual:
+
+
 ![Docker_lab_Process](https://user-images.githubusercontent.com/14003325/235817356-99b25489-b910-4514-911c-7e25d2fb5e7e.jpg)
